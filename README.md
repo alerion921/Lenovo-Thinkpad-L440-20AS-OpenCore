@@ -1,4 +1,4 @@
-# Lenovo-Thinkpad-L440-20AS-OpenCore-EFI-Monterey-Success
+# Lenovo-Thinkpad-L440-20AS-OpenCore - Monterey 12 Successfully Installed
 
 Install EFI (The EFI i used on my USB drive to install OSX Monterey)
 Post-Install EFI (The EFI i replaced "install EFI" with after the first boot after completed installation)
